@@ -1,5 +1,7 @@
 ## **LazyMenu**
 LazyMenu is a utility ran in Terminal that is used to easily find & use projects, it will also be used for more things soon!
+
+**LazyMenu is Jammed into 1 Python file to make it fast responsive time & Really Simple to use!**
 ## **Version:**
 ```python
 BETA
